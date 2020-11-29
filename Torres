@@ -1,27 +1,67 @@
 PC:
 
-1 General:
+================================================================================0
 
-  GAMMA BAJA 
- 
-  CPU: i5-2310 4x2.4hz 30K
-  GPU: GTX-460         50K
-  RAM: 4GB             25K  ------> 140
-  DISCO: 500           35K
+1. General:
+
+GAMMA BAJA 
   
-  GAMMA MEDIA 
+CPU: Intel Pentium Gold G5420                                       $ 54.900
+GPU: -
+RAM: Kingston KVR24N17S6/4 (1 x 4GB | DIMM DDR4-2400)               $ 16.990
+DD:  Western Digital AV-GP 500 GB                                   $ 21.990
+
+Total:                                                              $ 93.980
   
-  GAMMA ALTA
+GAMMA MEDIA 
   
-2 Gamming:
+CPU: Intel Core i3-9100F                                            $ 77.400
+GPU: -
+RAM: Kingston KCP426NS6/8 (1 x 8GB | DIMM DDR4-2666)                $ 28.576
+DD:  Seagate Constellation ES 1 TB                                  $ 31.990
+
+Total:                                                             $ 137.966
+
+GAMMA ALTA
+  
+CPU: Intel Core i5-9400F                                            $ 129.690 
+GPU: -
+RAM: Kingston KCP426NS6/8 (1 x 8GB | DIMM DDR4-2666)                 $ 28.576
+DD:  Seagate SkyHawk 2 TB                                            $ 50.990
+
+Total:                                                              $ 209.256
+  
+================================================================================= 
+  
+2. Gamming:
 
 GAMMA BAJA
 
 CPU: Intel Core i3-9100F                                            $ 77.400
 GPU: NVIDIA GeForce GT 710                                          $ 54.900
 RAM: Kingston KVR24N17S6/4 (1 x 4GB | DIMM DDR4-2400)               $ 16.990
-DD:  Western Digital AV-GP 500 GB (WD5000AVDS)                      $ 21.990
+DD:  Western Digital AV-GP 500 GB                                   $ 21.990
 
 Total:                                                              $171.280
+
+GAMMA MEDIA
+
+CPU: Intel Core i5-9400F                                            $ 129.690
+GPU: MSI GeForce GTX 1050 TI 4GT OC                                 $ 179.900
+RAM: Kingston KCP426NS6/8 (1 x 8GB | DIMM DDR4-2666)                 $ 28.576
+DD:  Seagate Constellation ES 1 TB                                   $ 31.990
+
+Total:                                                              $ 370.156
+
+GAMMA ALTA
+
+CPU: Intel Core i5-10600K                                          $ 278.000
+GPU: ASUS PH-GTX1660S-O6G                                          $ 299.990
+RAM: Kingston HyperX Fury Black 2 x 8GB                             $ 63.980
+DD:  Seagate SkyHawk 2 TB                                           $ 50.990
+
+Total:                                                             $ 692.960
+
+================================================================================
 
 
