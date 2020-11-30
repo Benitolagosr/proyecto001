@@ -1,6 +1,6 @@
 PC:
 
-================================================================================0
+================================================================================
 
 1. General:
 
@@ -24,12 +24,12 @@ Total:                                                             $ 137.966
 
 GAMMA ALTA
   
-CPU: Intel Core i5-9400F                                            $ 129.690 
+CPU: Intel Core i5-9400F                                           $ 129.690 
 GPU: -
-RAM: Kingston KCP426NS6/8 (1 x 8GB | DIMM DDR4-2666)                 $ 28.576
-DD:  Seagate SkyHawk 2 TB                                            $ 50.990
+RAM: Kingston KCP426NS6/8 (1 x 8GB | DIMM DDR4-2666)                $ 28.576
+DD:  Seagate SkyHawk 2 TB                                           $ 50.990
 
-Total:                                                              $ 209.256
+Total:                                                             $ 209.256
   
 ================================================================================= 
   
@@ -55,13 +55,42 @@ Total:                                                              $ 370.156
 
 GAMMA ALTA
 
-CPU: Intel Core i5-10600K                                          $ 278.000
-GPU: ASUS PH-GTX1660S-O6G                                          $ 299.990
-RAM: Kingston HyperX Fury Black 2 x 8GB                             $ 63.980
-DD:  Seagate SkyHawk 2 TB                                           $ 50.990
+CPU: Intel Core i5-10600K                                           $ 278.000
+GPU: ASUS PH-GTX1660S-O6G                                           $ 299.990
+RAM: Kingston HyperX Fury Black 2 x 8GB                              $ 63.980
+DD:  Seagate SkyHawk 2 TB                                            $ 50.990
 
-Total:                                                             $ 692.960
+Total:                                                              $ 692.960
 
 ================================================================================
+
+3. Edicion y almacenamiento
+
+GAMMA BAJA
+
+CPU: Intel Core i3-10100F                                            $ 89.900
+GPU: NVIDIA GeForce GT 710                                           $ 67.790
+RAM: Kingston KVR24N17S6/4 (1 x 4GB | DIMM DDR4-2400)                $ 16.990
+DD:  Seagate Constellation ES 1 TB                                   $ 31.990
+
+Total:                                                              $ 206.670
+
+GAMMA MEDIA
+
+CPU: Intel Core i5-9400F                                            $ 129.690
+GPU: MSI GeForce GTX 1050 TI 4GT OC                                 $ 179.900
+RAM: Kingston KCP426NS6/8 (1 x 8GB | DIMM DDR4-2666)                 $ 28.576
+DD:  Seagate SkyHawk 2 TB                                            $ 50.990
+
+Total:                                                              $ 389.156
+
+GAMMA ALTA
+
+CPU: Intel Core i5-10600K                                           $ 278.000
+GPU: NVIDIA GeForce GTX 1650                                        $ 215.900
+RAM: RAM: Kingston HyperX Fury Black 2 x 8GB                         $ 63.980
+DD:  Seagate Surveillance 6 TB                                      $ 162.990
+
+Total:                                                               $720.870
 
 
