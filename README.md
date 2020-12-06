@@ -1,2 +1,2 @@
-# proyecto001
+# COTIZATUPC
 Cotiza tu computadora personal con nuestro software.
